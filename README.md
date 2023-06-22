@@ -18,10 +18,10 @@ This repository is a treasure trove of Vanilla JS projects that will ignite your
 
 To get started, simply clone this repository to your local machine:
 
-git clone [repository-link]
+`git clone [repository-link]`
 
 
-Browse through the `projects` directory, choose the one that catches your interest, and follow the project-specific instructions mentioned in their respective README files. Get ready for an exciting coding adventure! 🚀🔥
+Browse through the repository, choose the one that catches your interest, and follow the project and try to explore or recreate. Get ready for an exciting coding adventure! 🚀🔥
 
 ## Spread the Word
 
